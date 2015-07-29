@@ -1,0 +1,49 @@
+h1 {
+color:#88f;
+}
+
+.left{
+	width:40%;
+	padding:5%;
+	float:left;
+
+}
+ 
+.right{
+	width:40%;
+	padding:5%;
+	float:right;
+	
+}
+
+h2 {
+	background-color:#0d9;
+}
+p {font-size:20px; 
+
+}
+
+li {
+	color: #ccc;
+}
+
+#something {
+	color: #f00;
+}
+
+.mum {
+	color: #f60;
+}
+body{
+	background-color:#0d9; 
+	width:800px;
+	margin:0px auto;
+}
+
+img {
+	max-width: 95%;
+}
+
+#embiggen {
+	
+}
