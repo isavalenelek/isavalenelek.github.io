@@ -1,0 +1,141 @@
+#wrapperID{
+	max-width:1000px;
+	max-height: 750px;
+	color:white;
+	margin: auto;
+}
+
+.wrapper {
+	background-image:url("http://orig10.deviantart.net/7f5b/f/2013/214/0/f/mlp_eqg_background_bedroom__night__by_x_princesscherry_x-d6gbqr0.png");
+	background-size: 1000px 750px;
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+#bedHall {
+	position:absolute;
+	left:50%;
+	top:70%;
+	width:20%;
+	height:20%;
+	background-image: url("http://3.bp.blogspot.com/-uB2AVxxKm8U/UJfu8Ej0CqI/AAAAAAAAAi4/o491PogJ6UA/s640/portal+%25282%2529.gif"); 
+	opacity: 0.5;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+#livingHall {
+	position:absolute;
+	left:30%;
+	top:70%;
+	width:20%;
+	height:20%;
+	background-image: url("http://3.bp.blogspot.com/-uB2AVxxKm8U/UJfu8Ej0CqI/AAAAAAAAAi4/o491PogJ6UA/s640/portal+%25282%2529.gif"); 
+	opacity: 0.5;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+#bedLiving{
+
+	position:absolute;
+	left:70%;
+	top:70%;
+	width:20%;
+	height:20%;
+	background-image: url("http://3.bp.blogspot.com/-uB2AVxxKm8U/UJfu8Ej0CqI/AAAAAAAAAi4/o491PogJ6UA/s640/portal+%25282%2529.gif"); 
+	opacity: 0.5;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+#wayout2{
+	position:absolute;
+	left:30%;
+	top:70%;
+	width:150px;
+	height:150px;
+	background-image: url("http://3.bp.blogspot.com/-uB2AVxxKm8U/UJfu8Ej0CqI/AAAAAAAAAi4/o491PogJ6UA/s640/portal+%25282%2529.gif"); 
+	opacity: 0.5;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+
+.secondWrapper{
+	background-image:url("Living room.png");
+	position:absolute;
+	background-size: 1000px 750px;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.thirdWrapper{
+	background-image:url("http://img06.deviantart.net/e0b6/i/2007/249/0/f/empty_room_17_by_madamem_stock.jpg");
+	position:absolute;
+	background-size: 1000px 750px;
+
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+.hidden{
+	display:none;
+}
+
+
+
+#key{
+background-image:url("http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/firey-orange-jelly-icons-business/079818-firey-orange-jelly-icon-business-key9.png");
+	position:absolute;
+	width:10%;
+	height:6%;
+	top:85%;
+	left:70%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+	#shovel{
+background-image:url("http://icons.iconarchive.com/icons/chrisl21/minecraft/256/Iron-Shovel-icon.png");
+	position:absolute;
+	width:15%;
+	height:10%;
+	background-repeat:no-repeat;
+	background-size:contain;
+	top:50%;
+	left:30%;
+}
+#hole{
+background-image:url("http://p3bhasan.com/images/hole.png");
+	position:absolute;
+	width:10%;
+	height:6%;
+	background-repeat:no-repeat;
+	background-size:contain;
+	top:90%;
+	left:45%;
+}
+
+
+
+
+
+
+.garden{
+	background-image:url("http://www.fondos7.net/wallpaper-original/wallpapers/Beautiful-Garden-63.jpg");
+	position:absolute;
+	background-size: 1000px 750px;
+
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+
